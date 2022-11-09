@@ -1,6 +1,9 @@
-### Hi, I'am VJ
+## Hi, It's VJ
+![life_liker](https://user-images.githubusercontent.com/84858449/200856095-a529c1a2-ac4d-4990-b249-0ffceed59a16.jpg)
+
 <!--
 **Vijayabaskar56/Vijayabaskar56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
