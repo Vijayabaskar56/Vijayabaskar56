@@ -5,10 +5,10 @@
 
 ![life_lik(1)](https://user-images.githubusercontent.com/84858449/200856597-1de87f1c-7dcb-45ea-9604-b5c9bf1d4422.jpg)
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/vijaya-baskar/)">
+  <a href="https://www.linkedin.com/in/vijaya-baskar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/VJBass1)">
+  <a href="https://twitter.com/VJBass1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
