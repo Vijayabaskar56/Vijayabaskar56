@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img href="https://komarev.com/ghpvc/?username=Vijayabaskar56&style=flat-square&color=blue" alt="" />
+<img href="https://komarev.com/ghpvc/?Vijayabaskar56&style=flat-square&color=blue" alt="" />
+![](https://komarev.com/ghpvc/?Vijayabaskar56&label=PROFILE+VIEWS)
 <!--
 **Vijayabaskar56/Vijayabaskar56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
