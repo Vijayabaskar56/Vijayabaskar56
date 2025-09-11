@@ -1,15 +1,5 @@
-<div align="center">
-  <img height="320" src="https://utfs.io/f/9564c797-5fb5-4134-a80b-a6ad10901b0e-xacw60.jpg"  />
-</div>
-
-<div align="center">
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Vijayabaskar56"
-  width="1200"
-  height="320"
-/>
-</a>
+<div >
+  <img src="https://utfs.io/f/9564c797-5fb5-4134-a80b-a6ad10901b0e-xacw60.jpg"  />
 </div>
 
 ###
@@ -27,29 +17,18 @@
 </div>
 
 ###
+# Vijayabaskar
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Vijayabaskar56/count.svg?"  />
-</div>
 
-###
+### About Me
+- Full Stack Developer
+- Full time Web 3 Developer 
+- Always Learning new Tech
+- love to contribure to oss project
+- Part time Freelancer
+# 
 
-<h1 align="center">hey, It's VJ👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Vijayabaskar, from Madurai, India<br><br>- 🔭 I’m working as a freelancer<br>- 📚 I'm currently learning TypeScript<br>- ⚡ In my free time I watch programming streams on twich</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### Language and tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -82,16 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vijayabaskar56&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vijayabaskar56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijayabaskar56&radius=16&theme=green&area=true&order=5&hide_title=false&hide_border=true" height="203" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=Vijayabaskar56&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="203" alt="streak graph"  width="512" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="203" width="512" alt="streak graph"  />
 </div>
