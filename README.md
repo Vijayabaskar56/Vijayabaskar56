@@ -35,5 +35,5 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Vijayabaskar56&theme=dark&hide_border=false" width="49%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Vijayabaskar56&limit=5&theme=dark&combine_all_yearly_contributions=true" width="49%" height="200" alt="languages graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Vijayabaskar56&limit=5&theme=dark&combine_all_yearly_contributions=true" width="49%" height="170" alt="languages graph"  />
 </div>
